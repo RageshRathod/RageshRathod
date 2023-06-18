@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RageshRathod
 - 👀 I’m interested in ...Data and Love Working on Different Data Sets and Love to Find Insights of it.
-- 🌱 I’m currently learning ...Data Analytics, Data Visualisation ,AI , Machine Learning
+- 🌱 I’m currently learning ...SQL,Tableau , Python ,Machine Learning
 - 💞️ I’m looking to collaborate on ....Freelance
 - 📫 How to reach me ...rageshrathod3@gmail.com
 
